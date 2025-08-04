@@ -1,7 +1,8 @@
 I. What is computational science?  
   A. Application of advanced computing to solve complex problems (e.g., science, engineering, and humanities)
   B. Also known as scientific computing
-    1. It is an interdisciplinary field that uses advanced computing capabilities to understand and solve complex problems 
+    1. It is an interdisciplinary field that uses advanced computing capabilities to understand and solve complex problems
+  C. Science, Math, Computer Science combines into Computational Science 
 
 II. 
 
