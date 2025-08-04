@@ -4,5 +4,12 @@ I. What is computational science?
     1. It is an interdisciplinary field that uses advanced computing capabilities to understand and solve complex problems
   C. Science, Math, Computer Science combines into Computational Science 
 
-II. 
+II. Computational Science Process
+  A. Problem Definition
+  B. Model Formulation
+  C. Mathematical Representation
+  D. Computation (Simulation)
+  E. Interpretation of Results
+  F. Decision Making
+
 
