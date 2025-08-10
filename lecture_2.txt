@@ -1,1 +1,8 @@
+Foundations of Computational Science
+
+What is computational science?
+- interdisciplinary, blending mathematics, computer science, and domain-specific sciences to model, simulate, and analyze real-world phenomena
+- translating scientific challenges into computational tasks, it helps researchers and practitioners gain insights, make predictions, and optimize solutions across a wide range of fields - from physics and biology to social sciencesand engineering
+
+Real-World Examples
 
