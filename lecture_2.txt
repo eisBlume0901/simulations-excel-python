@@ -6,3 +6,10 @@ What is computational science?
 
 Real-World Examples
 
+Core Components
+1. Problem Definition - understand the scientific or practical problem
+2. Modeling - translate the problem into mathematical language
+3. Discretization - approximate continuous models to make them solvable on a comptuer
+4. Simulation - implement the model and run simulations
+5. Analysis and Visualization - interpret the output and gain insights
+6. Validation and Refinement - compare results to a real-world data and refine the model
