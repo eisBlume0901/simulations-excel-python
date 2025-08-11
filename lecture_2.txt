@@ -13,3 +13,9 @@ Core Components
 4. Simulation - implement the model and run simulations
 5. Analysis and Visualization - interpret the output and gain insights
 6. Validation and Refinement - compare results to a real-world data and refine the model
+
+Skills and Tools Needed
+1. Basic Programming
+2. Mathematical Modelling
+3. Logical Thinking and Problem-Solving
+4. Understanding
