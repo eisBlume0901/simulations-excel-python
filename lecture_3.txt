@@ -67,6 +67,31 @@ d. Continuous
 
 Scenario
 1. Calculating the distance a car travels at a constant speed of 60 km/hr for 3 hours.
-Time Handling:
-Randomness:
-Model Type:
+Time Handling: Continuous - constant speed
+Randomness: No
+Model Type: Deterministic-Continuous
+
+2. Predicting the number of defective items in a daily production batch.
+Time Handling: Discrete - daily
+Randomness: Yes - number of detective items
+Model Type: Probabilistic-Discrete
+
+3. Modeling the growth of bacteria in a petri dish under ideal laboratory conditions
+Time Handling: Continuous
+Randomness: No - ideal laboratory
+Model Type: Deterministic-Continuous
+
+4. Simulating the daily  number of customers entering a coffee shop
+Time Handling: Discrete - daily
+Randomness: Probabilistic - arrival time
+Model Type: Probabilistic-Discrete
+
+5. Tracking the amount of water in a tank being filed at a constant rate
+Time Handling: Continuous - constant rate
+Randomness: No 
+Model Type: Deterministic-Continuous
+
+6. Forecasting the time it takes for a comptuer to complete a given task when network delays are random
+Time Handling: Discrete
+Randomness: Yes
+Model Type: Probabilistic-Discrete
