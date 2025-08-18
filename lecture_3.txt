@@ -95,3 +95,21 @@ Model Type: Deterministic-Continuous
 Time Handling: Discrete
 Randomness: Yes
 Model Type: Probabilistic-Discrete
+
+Simulation Process: Step by Step
+1. Define the simulation objectives
+2. Build a conceptual model
+3. Translate the conceptual model into a mathematical/computational model
+4. Chooose a simulation tool (Excel, Python, MatLab)
+5. Verify the model (check logic and implementation)
+6. Validate the model (compare with real-world data)
+7. Run experiemtns and record results
+8. Analyze results and refine the model
+
+Evaluation and Use of Simulation
+1. Accuracy: Does the model produce results close to real data?
+2. Reliability: Are results consistent across runs?
+3. Usability: Is it understandable and practical for decision-making?
+4. Ethical Considerations:
+  a. Avoid bias in data and assumptions
+  b. Disclose limitations and uncertainty
