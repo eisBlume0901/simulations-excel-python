@@ -1,0 +1,72 @@
+Introduction to Modeling and Simulation
+
+Modeling - process of creating an abstract representation of a real-world system or process
+Simulation - execution of the model over time to study its behavior under various scenarios
+
+Applications:
+1. Weather forecasting
+2. Disease spread prediction
+3. Traffic flow optimization
+4. Supply chain planning
+
+Types of Models
+1. Conceptual - high-level descriptions (e.g., flowcharts, diagrams)
+2. Mathematical - represents systems using equations, inequalities, or probability distributions
+3. Computational - implemented using software to perform calculatons and simulations
+
+Key Elements of a Model
+1. Variables - measurable quantities that can change (e.g., temperature, population size)
+2. Parameters - constants that define system characteristics (e.g., growth rate)
+3. Assumptions - conditions accepted as true for simplification (e.g., frictionless surface)
+4. Constraints - limitations (e.g., budget, time, resources)
+
+Formulating Real-World into Computational Models
+1. Identify the Problem: Clearly state the objective (e.g., "Minimize wait times in a hospital ER")
+2. Define System Boundaries: What's included/excluded int he model
+3. Identify Variables & Parameters: Decide what data will be measured or estimated
+4. Establish Assumptions: Simplify without losing essential accuracy
+5. Translate into Mathematical Form:
+  a. Equations (e.g., differential equations for population growth)
+  b. Logical rules (e.g., if-else statements)
+  c. Algorithm path
+
+Types of Computational Models
+a. Deterministic 
+  - the output is fully determined by the intial conditions and parametsrs - there is no randomness involved. If you run it multiple times with the same inputs, you will always get exactly the same output
+  - Examples:
+  - Initial population: 1,000 
+  - Annual Growth rate: 3%
+  - How much is the population in 5 years?
+  - Answer: 
+    1,000 * 1.03 = 1,030
+    1,030 * 1.03 = 1,061
+    1,093 * 1.03 = 1,093
+    1,093 * 1.03 = 1,125
+    By 5 years, the total population would be 1,125
+
+b. Probabilistic (Stochastic) 
+  - incorporates random variables or uncertainty. Running the mode multiple times with the same parameters can produce different results because of the randomness
+  - Example:
+  - Rolling a 6-sided die 10 times using: =RANDBETWEEN(1,6) and get =AVERAGE()
+
+c. Discrete 
+  - if it changes in distinct steps or specific time intervals, and the variables take on distinct values (often integers)
+  - time progression and events occur in jumps, not continuously
+  - Example: Bank Queue Simulation
+
+d. Continuous 
+  - continuous when changes happen smoothly over time and variables can take on any value within a range
+  - time is treated as a continuous variable
+  - often uses differential equations to describe rate of change
+  - Example Applications:
+    a. Physics : Cooling of an object
+    b. Biology: Population in 
+    c. Environmental Science
+  - Example Mathematical Function
+  - Initial population = 1000
+
+Scenario
+1. Calculating the distance a car travels at a constant speed of 60 km/hr for 3 hours.
+Time Handling:
+Randomness:
+Model Type:
